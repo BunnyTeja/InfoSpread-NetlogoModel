@@ -1,0 +1,79 @@
+agent-type,agent-id,stance?,group-id
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 1
+agent type,id of turtle,stance at tick 1,group-id1
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 2
+agent type,id of turtle,stance at tick 2,group-id2
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 3
+agent type,id of turtle,stance at tick 3,group-id3
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 4
+agent type,id of turtle,stance at tick 4,group-id4
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 5
+agent type,id of turtle,stance at tick 5,group-id5
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 6
+agent type,id of turtle,stance at tick 6,group-id6
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 7
+agent type,id of turtle,stance at tick 7,group-id7
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 8
+agent type,id of turtle,stance at tick 8,group-id8
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 9
+agent type,id of turtle,stance at tick 9,group-id9
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 10
+agent type,id of turtle,stance at tick 10,group-id10
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 11
+agent type,id of turtle,stance at tick 11,group-id11
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 12
+agent type,id of turtle,stance at tick 12,group-id12
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 13
+agent type,id of turtle,stance at tick 13,group-id13
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 14
+agent type,id of turtle,stance at tick 14,group-id14
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 15
+agent type,id of turtle,stance at tick 15,group-id15
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 16
+agent type,id of turtle,stance at tick 16,group-id16
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 17
+agent type,id of turtle,stance at tick 17,group-id17
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 18
+agent type,id of turtle,stance at tick 18,group-id18
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2
+At tick 19
+agent type,id of turtle,stance at tick 19,group-id19
+groups,ID-146,0,group-1
+groups,ID-147,0,group-2

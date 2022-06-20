@@ -1,0 +1,79 @@
+agent-type,agent-id,stance?,topic-id
+topics,ID-136,0,topic-1
+topics,ID-137,0,topic-2
+At tick 1
+agent type,id of turtle,stance at tick 1,topic-id1,shape1
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 2
+agent type,id of turtle,stance at tick 2,topic-id2,shape2
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 3
+agent type,id of turtle,stance at tick 3,topic-id3,shape3
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 4
+agent type,id of turtle,stance at tick 4,topic-id4,shape4
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 5
+agent type,id of turtle,stance at tick 5,topic-id5,shape5
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 6
+agent type,id of turtle,stance at tick 6,topic-id6,shape6
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 7
+agent type,id of turtle,stance at tick 7,topic-id7,shape7
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 8
+agent type,id of turtle,stance at tick 8,topic-id8,shape8
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 9
+agent type,id of turtle,stance at tick 9,topic-id9,shape9
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 10
+agent type,id of turtle,stance at tick 10,topic-id10,shape10
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 11
+agent type,id of turtle,stance at tick 11,topic-id11,shape11
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 12
+agent type,id of turtle,stance at tick 12,topic-id12,shape12
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 13
+agent type,id of turtle,stance at tick 13,topic-id13,shape13
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 14
+agent type,id of turtle,stance at tick 14,topic-id14,shape14
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 15
+agent type,id of turtle,stance at tick 15,topic-id15,shape15
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 16
+agent type,id of turtle,stance at tick 16,topic-id16,shape16
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 17
+agent type,id of turtle,stance at tick 17,topic-id17,shape17
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 18
+agent type,id of turtle,stance at tick 18,topic-id18,shape18
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
+At tick 19
+agent type,id of turtle,stance at tick 19,topic-id19,shape19
+topics,ID-136,0,topic-1,square
+topics,ID-137,0,topic-2,square
